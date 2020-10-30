@@ -1,1 +1,1 @@
-# Program_multiply
+# Program to multiply two numbers.
