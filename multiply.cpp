@@ -1,12 +1,12 @@
 #include<iostream>
-#define ll long long
+#define ll long 
 using namespace std;
 
 int main()
 {
-  int a,b;
-  cin>>a>>b;
-  cout<<"Result is : "<<a*b<<endl;
+  int a,b,c;
+  cin>>a>>b>>>c;
+  cout<<"Result is : "<<b*c<<endl;
   
-  return 1;
+  return 10;
 }
